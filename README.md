@@ -30,22 +30,7 @@ To focus the analysis on the India job market, I used Excel to filter job data b
 
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
 
-```python
-# Importing Libraries
-import ast
-import pandas as pd
-import seaborn as sns
-from datasets import load_dataset
-import matplotlib.pyplot as plt  
 
-# reading data
-df = pd.read_csv('Data Jobs in India.csv', encoding = 'unicode_escape')
-
-
-# Data Cleanup
-df['job_posted_date'] = pd.to_datetime(df['job_posted_date'])
-df['job_skills'] = df['job_skills'].apply(lambda x: ast.literal_eval(x) if pd.notna(x) else x)
-```
 # The Analysis
 
 Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
