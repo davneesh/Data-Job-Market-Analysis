@@ -17,9 +17,14 @@ Welcome to my analysis of the data job market, focusing on data analyst roles. T
 Python was the primary tool for deeper analysis and visualization. Libraries used:
 - **Pandas Library:** This was used to analyze the data. 
 - **Matplotlib Library:** I visualized the data.
-- **Seaborn Library:** Helped me create more advanced visuals. 
-- **Google Collab:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
-- **Microsost Power BI:** 
+- **Seaborn Library:** Helped me create more advanced visuals.
+  
+### Google Collab
+The tool I used to run my Python scripts which let me easily include my notes and analysis.
+
+### Microsoft Power BI
+- Designed an interactive dashboard to visually explore trends in job roles, locations, required skills, and salary ranges.
+
 
 # Data Jobs Dashboard
 <img src="Data Jobs Dashboard.png">
