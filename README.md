@@ -13,11 +13,11 @@ Welcome to my analysis of the data job market, focusing on data analyst roles. T
 ### SQL
 - Used for querying structured job data to extract relevant insights.
 
-### Python (via Google Colab)
-- **Python:** The backbone of my analysis, allowing me to analyze the data and find critical insights.I also used the following Python libraries:
-    - **Pandas Library:** This was used to analyze the data. 
-    - **Matplotlib Library:** I visualized the data.
-    - **Seaborn Library:** Helped me create more advanced visuals. 
+### Python 
+Python was the primary tool for deeper analysis and visualization. Libraries used:
+- **Pandas Library:** This was used to analyze the data. 
+- **Matplotlib Library:** I visualized the data.
+- **Seaborn Library:** Helped me create more advanced visuals. 
 - **Google Collab:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Microsost Power BI:** 
 
