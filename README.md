@@ -14,8 +14,8 @@ Power Query: Utilized for cleaning and transforming large datasets to prepare th
     - **Pandas Library:** This was used to analyze the data. 
     - **Matplotlib Library:** I visualized the data.
     - **Seaborn Library:** Helped me create more advanced visuals. 
-- **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
-- **Visual Studio Code:** My go-to for executing my Python scripts.
+- **Google Collab:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
+- **Microsost Power BI:** 
 - **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
 
 # Data Preparation and Cleanup
