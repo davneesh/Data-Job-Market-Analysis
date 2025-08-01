@@ -38,6 +38,7 @@ Each Jupyter notebook for this project aimed at investigating specific aspects o
 
 
 # Data Jobs Dashboard
+<img src="Data Jobs Dashboard.png">
 
 # What I Learned
 
