@@ -17,26 +17,6 @@ Power Query: Utilized for cleaning and transforming large datasets to prepare th
     - **Seaborn Library:** Helped me create more advanced visuals. 
 - **Google Collab:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
 - **Microsost Power BI:** 
-- **Git & GitHub:** Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
-
-# Data Preparation and Cleanup
-
-This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
-
-## Filter India Jobs
-
-To focus the analysis on the India job market, I used Excel to filter job data based on relevant criteria, such as location, keywords, or country-specific fields. This allowed me to isolate job listings specific to India for further insights and analysis.
-
-## Import & Clean Up Data
-
-I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
-
-
-# The Analysis
-
-Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
-
-
 
 # Data Jobs Dashboard
 <img src="Data Jobs Dashboard.png">
